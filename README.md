@@ -1,5 +1,6 @@
 # Bitcoin Price Web Scraper
 
+![](Bitcoin.png)
 This project is a **Python-based web scraper** that automatically fetches the latest **Bitcoin price** from [CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/) every hour and saves the data into a **CSV file**. This enables historical tracking of Bitcoin prices over time.
 
 ## Features
