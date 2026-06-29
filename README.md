@@ -1,4 +1,4 @@
-# Bitcoin Price Web Scraper
+# Bitcoin Price Data Pipeline
 
 ![](Bitcoin1.png)
 
