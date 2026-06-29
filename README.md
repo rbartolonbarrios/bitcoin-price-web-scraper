@@ -7,20 +7,20 @@ This project demonstrates the development of an automated data collection workfl
 The project illustrates practical concepts in web scraping, automation, and data collection while emphasizing reliable acquisition of external data for downstream analytics.
 
 
-## Features
+## Technologies
+
+- **Python**
+- **Requests**
+- **BeautifulSoup**
+- **Pandas**
+  
+## Project Features
 
 - Developed an automated Python workflow for scheduled cryptocurrency price collection.
 - Retrieved real-time Bitcoin price data from CoinMarketCap using HTTP requests and HTML parsing.
 - Generated timestamped historical datasets suitable for downstream analysis.
 - Implemented basic error handling to improve reliability during automated execution.
 - Designed the workflow to support scheduled execution using operating system task schedulers.
-
-## Technologies Used
-
-- **Python**
-- **Requests**
-- **BeautifulSoup**
-- **Pandas**
 
 ## Sample Dataset
 
